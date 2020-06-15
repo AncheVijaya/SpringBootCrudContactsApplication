@@ -1,5 +1,6 @@
 # SpringBootCrudContactsApplication
 
+### install mongo db
 ### mvn clean install
 ### Run the MyContactBootApplication.java
 
